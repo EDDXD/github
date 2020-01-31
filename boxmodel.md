@@ -4,7 +4,7 @@
 >En términos cortos es un módulo CSS que define **cajas** rectangulares, ya que en cada etiqueta **HTML** se crea una caja rectangular que la engloba, encerrando los contenidos de ese elemento así como en el siguiente Ejemplo:
 >
 >Ejemplo Etiqueta html|
---------------|
+----------------------|
 >
 >Entonces esta caja cuenta con propiedades que son:
 >- **Width:** Ancho total de la caja.
